@@ -1,3 +1,7 @@
+# Python 3 refactor
+
+Same as root repo, but refactored to Python 3
+
 # mgeval
 
 An Objective evaluation toolbox for symbolic domain music generation.
